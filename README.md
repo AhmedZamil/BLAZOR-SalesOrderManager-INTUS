@@ -1,4 +1,4 @@
-# BLAZOR SalesOrderManager INTUS
+# BLAZOR Sales Order Manager INTUS
 Task For Developer Blazor NET Core
 
 # Developer TASK [BLAZOR WASM] INTUS - Technical Challenge
